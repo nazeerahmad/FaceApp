@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">FaceApp</string>
+    <string name="detect_face">Detect Face</string>
+    <string name="ok">Ok</string>
+    <string name="take_pic">Please take a picture.</string>
+
+    <string name="permission_camera_rationale">Access to the camera is needed for detection</string>
+    <string name="no_camera_permission">This application cannot run because it does not have the camera permission.  The application will now exit.</string>
+    <string name="low_storage_error">Face detector dependencies cannot be downloaded due to low device storage</string>
+    <string name="auto_snap">Auto Snap</string>
+    <string name="find_face">Find Face</string>
+</resources>
